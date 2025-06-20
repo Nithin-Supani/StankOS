@@ -1,3 +1,0 @@
-/home/nithin/stankOS/build/CMakeFiles/stankOS.dir
-/home/nithin/stankOS/build/CMakeFiles/edit_cache.dir
-/home/nithin/stankOS/build/CMakeFiles/rebuild_cache.dir

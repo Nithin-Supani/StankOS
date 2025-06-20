@@ -1,0 +1,12 @@
+# Ignore build artifacts
+build/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Editor files
+.vscode/
+*.swp
