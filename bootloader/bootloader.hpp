@@ -9,6 +9,6 @@ namespace stankos::bootloader {
         FAIL
     };
 
-    BootState run();
+    BootState run(bool simulateFailure = false);
 
 }
