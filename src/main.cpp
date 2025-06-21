@@ -1,6 +1,7 @@
 #include <iostream>
+#include "bootloader.hpp"
 
 int main() {
-	std::cout << "Welcome to StankOS 🚀" << std::endl;
-	return 0;
+	auto state = stankos::bootloader::run();
+	return static_cast<int>(state);          // returns 4 for OK
 }
